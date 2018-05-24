@@ -1,8 +1,11 @@
 # 3. kodutöö – Chrome extension
 
-Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
+Tööd tegid: Valeri Valentinov, Konstantin Blinkov, Igor Filippov
+Idee: Saab valida 3 erinevat kursori.
+1) Valid endale sobiva kursori
+2) Teed leheküljele reloadi
+3) Jätad või vahetad tagasi
 
-**Töö on soovitatav teha kahekesi!**
 
 ## Nõuded
 
